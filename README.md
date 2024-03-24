@@ -10,6 +10,10 @@
 
 4 - [Result on kibana dev tool](#Result-on-kibana-dev-tool)
 
+5 - [How to contribute](#How-to-contribute)
+
+6 - [Contact](#Contact)
+
 ---
 
 ### Overview
@@ -117,6 +121,28 @@ GET uploaded_with_python/_doc/0
 On dev tools, the result will be this:
 
   ![image](https://github.com/kaykRodr1gu3s/Elasticsearch-Uploader/assets/110197812/55eba2af-1fb8-4923-9ba0-13087ba92fb8)
+
+  You can execute outher curl query, [click here](https://www.elastic.co/guide/en/kibana/current/xpack-profiler.html#search-profiler-getting-started) to read the docs.
+
+
+
+
+### how to contribute
+ 1. Fork the repository.
+ 2. Create a branch for your contribution: `git checkout -b feature-nova`.
+ 3. Make the desired changes and commit: `git commit -m "Add new functionality"`.
+ 4. Push to your branch: `git push origin new-feature`.
+ 5. Open a pull request.
+
+
+## Contact
+
+- Linkedin: [Kayk Rodrigues](https://www.linkedin.com/in/kayk-rodrigues-504a03273)
+
+
+
+
+
 
 
 
