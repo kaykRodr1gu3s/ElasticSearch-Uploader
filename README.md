@@ -114,6 +114,7 @@
 GET uploaded_with_python/_doc/0
 
 ```
+On dev tools, the result will be this:
 
   ![image](https://github.com/kaykRodr1gu3s/Elasticsearch-Uploader/assets/110197812/55eba2af-1fb8-4923-9ba0-13087ba92fb8)
 
